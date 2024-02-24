@@ -159,8 +159,8 @@
         <footer class="py-5">
             <div class="container">
                 <div class="copyright text-center">
-                    © {{ date('Y')}} Developed By <a href="https://maulanakevinp.github.io/" class="font-weight-bold ml-1"
-                                target="_lank">Kevin</a> Theme By <a href="https://www.creative-tim.com"
+                    © {{ date('Y')}} Developed By <a href="https://tioaryanto.github.io/" class="font-weight-bold ml-1"
+                                target="_lank">Tio Aryanto</a> Theme By <a href="https://www.creative-tim.com"
                                 class="font-weight-bold ml-1" target="_blank">Creative Tim</a>
                 </div>
             </div>
